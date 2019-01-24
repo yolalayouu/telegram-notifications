@@ -7,7 +7,7 @@
     "laravel",
     "notification"
   ],
-  "homepage": "https://github.com/babenkoivan/telegram-notifications",
+  "homepage": "https://github.com/yolalayouu/telegram-notifications",
   "license": "MIT",
   "authors": [
     {
@@ -22,6 +22,13 @@
   "autoload": {
     "psr-4": {
       "TelegramNotifications\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "TelegramNotifications\\ServiceProvider"
+      ]
     }
   }
 }
