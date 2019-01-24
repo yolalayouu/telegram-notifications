@@ -1,5 +1,5 @@
 {
-  "name": "babenkoivan/telegram-notifications",
+  "name": "yolalayouu/telegram-notifications",
   "type": "library",
   "description": "Telegram notifications for Laravel",
   "keywords": [
@@ -13,6 +13,11 @@
     {
       "name": "Babenko Ivan",
       "email": "babenko.i.a@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Guillaume Aloird",
+      "email": "guillaume.aloird@53jours.fr",
       "role": "Developer"
     }
   ],
